@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+
+}
+
+
+@font-face {
+  font-family: 'Pixel';
+  src: url('font/Pixel-LCD-7.woff') format('woff');
+}
+
+
+.musBtn{
+  font-family: 'Pixel';
+  box-sizing: border-box;
+  margin: 0 0 20px 0;
+  padding: 20px;
+  min-height: 30px;
+  width: 100%;
+  border-radius: 20px;
+  border: none;
+  color: #fff;
+  background: #333;
+  font-family:  Arial;
+  font-size: 1rem;
+  outline: none;
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: yellow;
+  text-transform: uppercase;
+}
